@@ -1,3 +1,5 @@
+title: GlueOps
+
 plugins:
   - jekyll-relative-links
 relative_links:
