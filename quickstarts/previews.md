@@ -1,7 +1,3 @@
-
-
-# Getting started.
-
 ## Configuring your first repository to have preview environments on demand
 
 Requirements:
