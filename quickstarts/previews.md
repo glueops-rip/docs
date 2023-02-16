@@ -1,9 +1,9 @@
 ## Configuring your first repository to have preview environments on demand
 
 Requirements:
-- Access to your application Stack repository
-- Your glueopshosted apps cluster domain (ex. apps.nonprod.antoniostacos.glueopshosted.com)
-- A repository that publishes a docker image on every commit/push.
+Access to your application Stack repository<br>
+Your glueopshosted apps cluster domain (ex. apps.nonprod.antoniostacos.glueopshosted.com)<br>
+A repository that publishes a docker image on every commit/push.
 
 1. Go to your application stack repository. This is configured at the time of your cluster setup.
 2. Copy this template file below and save it as: `hello-world-preview-environments.yaml`
