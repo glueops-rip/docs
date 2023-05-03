@@ -19,3 +19,7 @@ Pinedale, WY 82941
 [Getting Started - Deploying your first application](./quickstarts/hello-world.md)
 
 [Getting started - Using preview environments](./quickstarts/previews.md)
+
+
+[Purchase DataOps through the Amazon Marketplace](https://aws.amazon.com/marketplace/pp/prodview-mfwjl2qdvhaes?sr=0-1&ref_=beagle&applicationId=AWSMPContessa)
+[Purchase DevOps through the Amazon Marketplace](https://aws.amazon.com/marketplace/pp/prodview-soaz2d3nlms6k?sr=0-2&ref_=beagle&applicationId=AWSMPContessa)
