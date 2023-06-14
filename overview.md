@@ -1,5 +1,7 @@
 # The GlueOps Platform
-
+\
+\
+\
 ![Alt text](GlueOpsPlatformOverview.jpeg?raw=true "GlueOps Platform Overview")
 
 #### The GlueOps Platform enables a seamless, GitOps driven workflow for deploying production and staging applications.  The platform also creates ephemeral, preview environments that enable developers to explore their running applications before their changes are merged to the main branch or deployed to production.
