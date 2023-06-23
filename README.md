@@ -20,6 +20,11 @@ Pinedale, WY 82941
 
 [Getting started - Using preview environments](./quickstarts/previews.md)
 
+[Getting started - Using have many environments across multiple repos](./quickstarts/pull-requests-many-repos.md)
+
+[Getting started - NFS (AWS EFS)](./quickstarts/nfs-aws.md)
+
+
 
 [Purchase DataOps through the Amazon Marketplace](https://aws.amazon.com/marketplace/pp/prodview-mfwjl2qdvhaes?sr=0-1&ref_=beagle&applicationId=AWSMPContessa)
 
