@@ -40,5 +40,6 @@ spec:
     syncOptions:
     - CreateNamespace=true
 ```
+In the template file, you'll need to update the value `REPLACE_THIS_VALUE` with your `apps` cluster domain. Let's assume your cluster domain is "apps.nonprod.antoniostacos.glueopshosted.com". Replace the value with something like: `hello-world.apps.nonprod.antoniostacos.glueopshosted.com`. Save the file and commit it to the repository.
 
-The one change you will need to make is updating: `REPLACE_THIS_VALUE` to use your `apps` cluster domain. For this example, we will assume "apps.nonprod.antoniostacos.glueopshosted.com" So change the value to something like: `hello-world.apps.nonprod.antoniostacos.glueopshosted.com` and then save the file and check it into the repository. Within seconds you should see the app running at: https://hello-world.apps.nonprod.antoniostacos.glueopshosted.com
+Within seconds, you should see the app running at: https://hello-world.apps.nonprod.antoniostacos.glueopshosted.com
