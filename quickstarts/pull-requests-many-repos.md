@@ -1,10 +1,10 @@
 
-## Configuring an Previews per pull request Across many identical repos at once
+## Configuring Previews per Pull Request Across Multiple Identical Repos Simultaneously
 
 ### Values to replace
 
-- CAPTAIN_DOMAIN_PLACE_HOLDER
-- GITHUB_ORG_NAME_PLACE_HOLDER
+- `CAPTAIN_DOMAIN_PLACE_HOLDER`:
+- `GITHUB_ORG_NAME_PLACE_HOLDER`: Replace with your GitHub organization name
 
 
 ```yaml
